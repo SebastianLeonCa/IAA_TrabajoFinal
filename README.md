@@ -20,7 +20,7 @@ El Dataset se encuentra en el siguiente enlace recos_supermercados/recos_superme
 
 - **SVD: Filtrado Colaborativo:**
 - **KNN: Nuevos productos:**
-- **KNN: Nuevos frecuentes:**
+- **KNN: Productos frecuentes:**
 - **Item Based Collaborative Filtering**
 
 ## Agradecimientos
