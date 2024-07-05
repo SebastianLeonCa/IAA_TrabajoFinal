@@ -1,5 +1,22 @@
-Modelo de Recomendación para Consumo en Supermercados
+# Modelo de Recomendación para Consumo en Supermercados
 
-Este proyecto implementa varios sitemas de recomendación personalizado para supermercados, diseñado para ofrecer recomendaciones individuales basadas en los patrones de consumo de los clientes.
-Utilizando técnicas avanzadas de motores de recomendación, el modelo analiza el historial de compras de los usuarios para predecir y sugerir productos relevantes y complementarios. 
-Este enfoque no solo mejora la experiencia del cliente al proporcionar recomendaciones precisas, sino que también ayuda a aumentar la fidelidad del cliente al supermercado.
+Este proyecto implementa varios sistemas de recomendación personalizados para supermercados, diseñados para ofrecer recomendaciones individuales basadas en los patrones de consumo de los clientes. Utilizando técnicas avanzadas de motores de recomendación, el modelo analiza el historial de compras de los usuarios para predecir y sugerir productos relevantes y complementarios.
+
+## Objetivo
+
+El objetivo principal de este proyecto es mejorar la experiencia del cliente proporcionando recomendaciones precisas y útiles, así como aumentar la fidelidad del cliente al supermercado.
+
+## Características
+
+- **Limpieza de datos:** El inicio de todos los notebooks son similares, ya que se realiza una limpieza de los datos.
+- **Preprocesamiento:** El preprocesamiento  varia en cada notebook pues algunos modelos solicitan un proprocesamiento especial.
+
+## Tecnologías Utilizadas
+
+- **SVD: Filtrado Colaborativo:**
+- **KNN: Nuevos productos:**
+- **Item Based Collaborative Filtering**
+
+## Agradecimientos
+
+Agradecemos a todos los que han contribuido a este proyecto y al profesor por su orientación y apoyo.
