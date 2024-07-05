@@ -9,6 +9,7 @@ El objetivo principal de este proyecto es mejorar la experiencia del cliente pro
 ## Dataset
 
 El Dataset se encuentra en el siguiente enlace recos_supermercados/recos_supermercados/supermercados.csv .
+
 [Dataset](https://drive.google.com/file/d/1A6PymninKBCK2c1Y_C4m2cc9yal6VUgI/view?usp=sharing)
 
 ## Características
