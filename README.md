@@ -6,6 +6,11 @@ Este proyecto implementa varios sistemas de recomendación personalizados para s
 
 El objetivo principal de este proyecto es mejorar la experiencia del cliente proporcionando recomendaciones precisas y útiles, así como aumentar la fidelidad del cliente al supermercado.
 
+## Dataset
+
+El Dataset se encuentra en el siguiente enlace recos_supermercados/recos_supermercados/supermercados.csv .
+[Dataset](https://drive.google.com/file/d/1A6PymninKBCK2c1Y_C4m2cc9yal6VUgI/view?usp=sharing)
+
 ## Características
 
 - **Limpieza de datos:** El inicio de todos los notebooks son similares, ya que se realiza una limpieza de los datos.
